@@ -1,34 +1,39 @@
-# TP1 JAVA RMI
+# Gestion des Salles et des Machines avec Java RMI
 
-## 🚀 Introduction
+## Présentation
 
-Bienvenue dans le tp RMI (Remote Method Invocation) en Java. Ce projet vous permettra de plonger dans l'univers passionnant de la programmation distribuée. L'objectif principal de ce projet est de démontrer comment Java RMI peut être utilisé pour faciliter la communication entre des objets répartis sur un réseau.
+Bienvenue dans ce projet de gestion des salles et des machines en utilisant Java RMI. Ce projet vise à vous montrer comment Java RMI facilite la gestion et la communication entre des salles et des machines réparties sur un réseau.
 
-## ✨ Caractéristiques
+## 🚀 Fonctionnalités
 
-- Communication distante : Utilisez Java RMI pour permettre la communication entre des objets distribués.
-- Interface utilisateur élégante : Profitez d'une interface utilisateur conviviale grâce à Java Swing.
-- Système distribué : Créez une application qui fonctionne comme un système distribué, où les composants interagissent de manière transparente via le réseau.
+- **Ajouter, Modifier, Supprimer :** Permet d'ajouter, de modifier et de supprimer des salles et des machines.
+- **🔍 Recherche :** Vous pouvez effectuer des recherches pour trouver des informations spécifiques concernant les salles et les machines.
+- **Communication à Distance :** Utilisez Java RMI pour connecter des objets à travers un réseau.
+- **Interface Élégante :** Profitez d'une interface utilisateur conviviale grâce à Java Swing.
+- **Système Distribué :** Créez un système distribué où les composants interagissent de manière transparente via le réseau.
 
 ## 🛠️ Technologies Utilisées
 
-- **Java** : Langage de programmation polyvalent pour la création d'applications robustes.
-- **Java RMI** : Technologie de communication distante en Java.
-- **Java Swing** : Bibliothèque graphique pour la création d'interfaces utilisateur.
+- **Java** : Langage de programmation polyvalent.
+- **Java RMI** : Communication à distance en Java.
+- **Java Swing** : Bibliothèque graphique pour l'interface utilisateur.
 
-## 🚦 Pour Commencer
+## ⚙️ Prérequis
 
-### 🔍 Prérequis
+Avant de démarrer, assurez-vous d'avoir installé les éléments suivants :
 
-Avant de commencer, assurez-vous d'avoir les éléments suivants :
+- **JDK (Java Development Kit)** : Téléchargez et installez la dernière version à partir du site officiel d'Oracle.
 
-- **JDK (Java Development Kit)** : Téléchargez et installez la dernière version du JDK à partir du site officiel d'Oracle.
+- **NetBeans** : Installez NetBeans, un environnement de développement Java.
 
-## ⚡ Démonstration
+## 🚀 Installation
 
-[Regardez une démonstration du projet ici](https://www.example.com/demo.mp4)
+1. Clonez ce référentiel.
+   ```shell
+   git clone https://github.com/yamenbh/RMI-JAVA-TP1/
 
-## 👥 Auteur
+## ⚡ Démonstration Vidéo
 
-- AYMANE AIT EL BHIRI (https://github.com/yamenbh)
+
+
 
